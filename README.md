@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Do you know that my code runs smooth on my machine 🔥**
 
-<img align="center" src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif"></img>
+<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
