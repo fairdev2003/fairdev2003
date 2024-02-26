@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate fullstack developer from Poland</h3>
 
 - 🔭 I’m currently working on [Invsee](www.invsee.pl)
 
