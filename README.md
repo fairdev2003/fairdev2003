@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **Do you know that my code runs smooth on my machine 🔥**
 
+<img align="center" src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif"></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fair" height="30" width="40" /></a>
