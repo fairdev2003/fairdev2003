@@ -1,6 +1,6 @@
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [Invsee](www.invsee.pl)
+- 🔭 I’m currently working on [Invsee](https://www.github.com/fairdev2003/invsee)
 
 - 🌱 I’m currently learning **Next.js, Java, tRPC, Prisma**
 
