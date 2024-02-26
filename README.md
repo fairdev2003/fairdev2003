@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Rasume](Rasume)
 
-- ✨ My first learned programming language: <a>Python</a>
+- ✨ My first learned programming language: <a src='https://www.python.org/'>Python</a>
 
 - ⚡ Fun fact **Do you know that my code runs smooth on my machine 🔥**
 
