@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Twitter](Twitter)
 
-- 💬 Ask me about **React, Next.js, Express, Typescript, JavaScript**
+- 💬 Ask me about **React, Next.js, Express, Typescript, JavaScript, Python**
 
 - 📫 How to reach me **kubaklimkiewicz1@gmail.com**
 
