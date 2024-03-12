@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kubaklimkiewicz1@gmail.com**
 
-- 📄 Know about my experiences [Rasume](Rasume)
+- 📄 Know about my experiences [Rasume](https://cdn.discordapp.com/attachments/1092161160205320222/1214695339093655623/CV_IT.pdf?ex=65fa0c30&is=65e79730&hm=7fba11cbd21ab42ea76302f91c39a10ecb0c952478a3b794396e80fe2d4bdb04&)
 
 - ✨ My first learned programming language: <a src="https://www.python.org/">Python</a>
 
