@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Invsee](https://www.github.com/fairdev2003/invsee)
 
-- 🌱 I’m currently learning **Next.js, Java, tRPC, Prisma**
+- 🌱 I’m currently learning **Next.js, Java, tRPC, Prisma, Svelte, SvelteKit**
 
 - 👯 I’m looking to collaborate on **Minecraft Mods and fullstack applications**
 
