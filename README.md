@@ -1,22 +1,22 @@
-## Hello my name is Jakub
+## Hello, my name is Jakub
 
-I really enjoy building both backend and frontend side of the application from scratch. Im currenly using [mikrus](https://mikr.us/) as my hosting server
+I really enjoy building both the backend and frontend sides of applications from scratch. I'm currently using [Mikrus](https://mikr.us/) as my hosting server.
 
-Right now im working on my personal dashboard right now. You can find source code right [here](https://github.com/fairdev2003/klimson-dashboard) and blog [here](https://klimson.dev/projects?openProject=klimson-dashboard)
+Right now, I'm working on my personal dashboard. You can find the source code [here](https://github.com/fairdev2003/klimson-dashboard) and the related blog post [here](https://klimson.dev/projects?openProject=klimson-dashboard).
 
-In the mean time im developing [discord bot](https://github.com/fairdev2003/Blackout-Clan-Bot) for people management on my discord server
+In the meantime, I'm developing a [Discord bot](https://github.com/fairdev2003/Blackout-Clan-Bot) for people management on my Discord server.
 
-## Stack i enjoy building with
+## Stack I enjoy building with
 
-- Frontend: **Sveltekit**, **Typescript**, **TailwindCSS**, **CSS**, **Next.js**
+- Frontend: **SvelteKit**, **TypeScript**, **Tailwind CSS**, **CSS**, **Next.js**
 - Backend: **Golang**, **GORM**, **Gin-Gonic**, **Python**, **Node.js**
-- Database: **PostagreSQL**, **MongoDB**
+- Database: **PostgreSQL**, **MongoDB**
 - Tools: **Git**, **Docker**
-- OS: **Arch linux**, **Ubuntu**, **Hyprland**
+- OS & Env: **Arch Linux**, **Ubuntu**, **Hyprland**
 - Misc: **Discord.js**
 
 ## Links
 
-- Cv on Web - [link](https://cv.klimson.dev)
-- Personal webiste - [https://klimson.dev](https://klimson.dev)
+- Online CV - [link](https://cv.klimson.dev)
+- Personal website - [https://klimson.dev](https://klimson.dev)
 - Projects - [https://klimson.dev/projects](https://klimson.dev/projects)
